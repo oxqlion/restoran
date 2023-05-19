@@ -1,0 +1,5 @@
+1. Burger
+2. Sate
+3. Indomeie
+4. Ayam Geprek
+5. Ayam Goreng
