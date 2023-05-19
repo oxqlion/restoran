@@ -1,7 +1,7 @@
 1. Burger
-2. Sate
-3. Indomeie
 4. Ayam Geprek
 6. Nasi Goreng
 7. Nasi Bakar
 8. Kerang
+9. Ayam Bakar Bumbu Cokelat
+10. Nasi Goreng Manis
